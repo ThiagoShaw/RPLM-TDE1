@@ -50,7 +50,7 @@ public class TabelaVerdade {
       System.out.printf("-----------------------");
     }     
   
-    if (operacao >= 5) {
+    if (operacao >= 4) {
       System.out.printf("\n   Nao existe essa opcao !");}
 
     if (operacao < 0) {
